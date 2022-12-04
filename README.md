@@ -31,13 +31,13 @@
 	
   <tbody align="left">
   <tr>
-  <td><b>Software Engineer, macOS</b></td>
-	    <td>Apple</td>
-	    <td>September 2022</td>
-	    <td>Present</td>
-	    <td>• TBD
-	    </td>
-  </tr>
+                <td><b>QA Software Automation Engineer</b></td>
+                <td>Attenti Inc</td>
+                <td>October 2021</td>
+                <td>Present</td>
+                <td>• Building test automation framework<br> • Selenium, c#, SpecFlow, API, MS DB <br> • Appium, Java, Maven, Cucumber, API, MS DB, iOS, Android <br>
+                </td>
+</tr>
 
     
   </tbody>

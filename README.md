@@ -9,7 +9,6 @@
 
 <!-------------------------------Social links--------------------------->
 
-
 <div align="left">
     <h2>Experience</h2>
     <table>
@@ -36,40 +35,4 @@
 
         </tbody>
     </table>
-</div>
-
-<br>
-
-<div align="left">
-    <h2>Outside of Work, I Enjoy</h2>
-    <table>
-        <thead align="center">
-            <tr border: none;>
-                <td><b>Hobby</b></td>
-                <td><b>Description</b></td>
-            </tr>
-        </thead>
-        <tbody align="left">
-            <tr>
-                <td>Diving</td>
-                <td>
-                    Diving with my wife in beautiful Florida</a>
-                </td>
-            </tr>
-            <tr>
-                <td>Brew Different Coffees ☕️</td>
-                <td>
-                    If you love coffee, I recommend <a href="https://deepoceanroastery.com">Trade</a>
-                </td>
-            </tr>
-            <tr>
-                <td>Having private pilot license</td>
-                <td>
-                    I enjoy flights on Cessna 172 from Clearwater and of course taking my son to fly as well. 
-                </td>
-            </tr>
-
-        </tbody>
-    </table>
-
 </div>

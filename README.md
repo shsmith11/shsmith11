@@ -47,55 +47,36 @@
 <br>
 
 <div align="left">
-	<h2>Outside of Coding, I Enjoy</h2>
-	<table>
-		<thead align="center">
-			<tr border: none;>
-				<td><b>Hobby</b></td>
-				<td><b>Description</b></td>
-			</tr>
-		</thead>
-		<tbody align="left">
-		<tr>
-				<td>Pelotoning 🚴‍</td>
-			<td>
-				Leaderboard: <a href="https://peloton.krisrjack.com">@KrisRJack</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Trying Different Coffees ☕️</td>
-			<td>
-				If you like coffee, I recommend joining <a href="https://www.drinktrade.com">Trade</a> or <a href="https://www.drinktrade.com](https://atlascoffeeclub.com)">Atlas Coffee Club</a>
-			</td>
-		</tr>
-		<tr>
-			<td>Listening to Podcasts 🎙</td>
-			<td>
-				My favorite podcasts are:<br>
-				• <i>The Vergecast</i> by the Verge<br>
-				• <i>Decoder with Nilay Patel</i> by the Verge<br>
-				• <i>Aquired</i> with Ben Gilbert, David Rosenthal<br>
-				• <i>Pivot</i> with Kara Swisher and Scott Galloway<br>
-				• <i>This Week in Startups</i> with Jason Calacanis<br>
-				• <i>All-In</i> with Jason Calacanis, Chamath Palihapitiya, David Sacks, David Friedberg<br>
-			</td>
-		</tr>
-		<tr>
-			<td>Listening to Music 🎧</td>
-			<td>
-				I'm a huge nerd when it comes to classic hip-hop. My favorite artists and albums are: <br>
-				• <b>Lauryn Hill</b>: <i>The Miseducation of Lauryn Hill</i> (1998) <br>
-				• <b>The LOX (mostly Jadakiss)</b>: <i>Money, Power & Respect</i> (1998) <br>
-				• <b>Wu-Tang Clan</b>: <i>Enter the Wu-Tang (36 Chambers)</i> (1993), <i>Only Built 4 Cuban Linx...</i> (1995) <br>
-				• <b>Jay-Z</b>: <i>Reasonable Doubt</i> (1996), <i>The Blueprint</i> (2001), <i>The Black Album</i> (2003) <br>
-				• <b>Eminem</b>: <i>The Slim Shady LP</i> (1999), <i>The Marshall Mathers LP</i> (2000), <i>The Eminem Show</i> (2002) <br>
-				• <b>Notorious B.I.G</b>: <i>Ready to Die</i> (1994), <i>Life After Death</i> (1997) <br>
-				• <b>Kendrick Lamar</b>: <i>Section.80</i> (2011), <i>Good Kid, M.A.A.D City</i> (2012), <i>To Pimp a Butterfly</i> (2015) 
-			</td>
-		</tr>
-	</tbody>
-</table>
+    <h2>Outside of Work, I Enjoy</h2>
+    <table>
+        <thead align="center">
+            <tr border: none;>
+                <td><b>Hobby</b></td>
+                <td><b>Description</b></td>
+            </tr>
+        </thead>
+        <tbody align="left">
+            <tr>
+                <td>Diving</td>
+                <td>
+                    Diving with my wife in beautiful Florida</a>
+                </td>
+            </tr>
+            <tr>
+                <td>Brew Different Coffees ☕️</td>
+                <td>
+                    If you love coffee, I recommend <a href="https://deepoceanroastery.com">Trade</a>
+                </td>
+            </tr>
+            <tr>
+                <td>Having private pilot license</td>
+                <td>
+                    I enjoy flights on Cessna 172 from Clearwater and of course taking my son to fly as well. 
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
 
 </div>
-
 

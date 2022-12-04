@@ -32,7 +32,7 @@
   <tbody align="left">
   <tr>
                 <td><b>QA Software Automation Engineer</b></td>
-                <td>Attenti Inc</td>
+                <td>Attenti Is now part of Allied Universal</td>
                 <td>October 2021</td>
                 <td>Present</td>
                 <td>• Building test automation framework<br> • Selenium, c#, SpecFlow, API, MS DB <br> • Appium, Java, Maven, Cucumber, API, MS DB, iOS, Android <br>

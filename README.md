@@ -1,9 +1,9 @@
 <!---------------------------------Header------------------------------>
 
 <div align="center">
-  <h1>
-    Welcome! I'm <a href="https://www.kristopherjackson.com" target="_blank">Kris</a> 👋 🏳️‍🌈
-  </h1>
+    <h1>
+        Hi! I'm Sergey Kuznetsov 👋
+    </h1>
 </div>
 
 

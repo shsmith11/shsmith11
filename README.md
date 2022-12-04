@@ -38,49 +38,7 @@
 	    <td>• TBD
 	    </td>
   </tr>
-    <tr>
-	    <td><b>Software Development Engineer in Test</b></td>
-	    <td>Peloton Interactive</td>
-	    <td>July 2021</td>
-	    <td>August 2022</td>
-	    <td>• Building upon Peloton’s suite of automated tests for Apple Platforms<br>
-	  	• Utilizing Apple’s XCTest library in Swift, CircleCI, and following Page Object Model paradigms and techniques
-	    </td>
-	  </tr> 
-	  <tr>
-		  <td><b>Open Source Contributor</b></td>
-		  <td>Mozilla (<a href = "https://github.com/mozilla-mobile/firefox-ios/pulls?q=is%3Apr+author%3AKrisRJack">Firefox</a>, <a href = "https://github.com/mozilla-lockwise/lockwise-ios/pulls?q=is%3Apr+author%3AKrisRJack">Lockwise</a>), Tuist (<a href = "https://github.com/tuist/XcodeProj/pull/654">XcodeProj</a>), <a href = "https://github.com/yonaskolb/XcodeGen/issues/1150">XcodeGen</a></td>
-		  <td>Jan 2020</td>
-		  <td>Present</td>
-		  <td>• Contributed to popular codebases and frameworks 
-		  </td>
-	  </tr>
-	  <tr>
-	    <td><b>iOS Developer</b></td>
-      <td>Netswitch LLC</td>
-      <td>May 2018</td>
-      <td>May 2021</td>
-      <td>• Led the development, design, and launch of a marketplace app that transformed a simple idea into lifelong lessons <br>
-          • Worked with Stripe, Realm, Firebase, and Google Cloud SDKs</td>
-    </tr>
-    <tr>
-	    <td><b>Machine Learning Intern</b></td>
-      <td>Dell Technologies</td>
-      <td>May 2019</td>
-      <td>Aug 2020</td>
-      <td>• Delivered an artificially intelligent framework that empowers a world-class sales team <br>
-          • Worked with state-of-the-art tools for distributed asynchronous hyper-parameter optimization and machine learning lifecycle management 
-      </td>
-    </tr>
-    <tr>
-	    <td><b>iOS Developer</b></td>
-      <td>Moment AI</td>
-      <td>May 2019</td>
-      <td>Sep 2019</td>
-      <td>• Contracted to develop a mobile app for a Memphis-based artificial intelligence startup <br>
-          • Worked with Swift and Firebase to develop an app that synced with their hardware to deliver real-time updates to users’ mobile phone
-      </td>
-    </tr>
+
     
   </tbody>
 </table>
